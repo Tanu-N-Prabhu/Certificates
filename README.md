@@ -6,9 +6,9 @@
             
  </p>           
 
-> I hereby declare that all the below certificates belong to me, and are not cheated by any chance - Tanu Nanda Prabhu
+> I hereby declare that all the below certificates belong to me and are not fake by any chance. - Tanu Nanda Prabhu
 
-Throughout my life I have achieved 22 documented certifications which are listed below. 
+Till now as of December 12, 2020 I have achieved 22 documented certifications which are listed below. 
 
 
 1. [Python (Intermediate)](https://github.com/Tanu-N-Prabhu/Certificates/blob/main/Certificates%20PDF/Python%20-%20Intermediate%20Sept%202020.png)
