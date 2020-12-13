@@ -57,13 +57,89 @@
   8. [Emergency First Aid and CPR/AED Level C](https://github.com/Tanu-N-Prabhu/Certificates/blob/main/Certificates%20PDF/Emergency%20First%20Aid%20August%202019.pdf)
   
 
-     Date - 35 August, 2019
+     Date - 25 August, 2019
     
      Issued By - [Canadian Red Cross](https://www.redcross.ca/)
 ---    
  
 
+ 9. [NVIDIA - Fundamentals of Deep Learning for Computer Vision](https://github.com/Tanu-N-Prabhu/Certificates/blob/main/Certificates%20PDF/Deep%20Learning%20Institute-Feb%202019.pdf)
+  
+
+      Date - 20 Febuary, 2019
+    
+      Issued By - [NVIDIA](https://www.nvidia.com/en-us/)
+---     
  
+ 
+   10. [2 Hours of Code your First Game: Arcade Class in Javascript on Canvas Online](https://github.com/Tanu-N-Prabhu/Certificates/blob/main/Certificates%20PDF/Arcade%20Classic%20Game%20In%20JavaScript%20Sept%202018.pdf)
+  
+
+       Date - 12 September, 2018
+    
+       Issued By - [Udemy](https://www.udemy.com/)
+---    
+
+ 
+ 
+ 11. [Applications on Smart Secure Shopping System](https://github.com/Tanu-N-Prabhu/Certificates/blob/main/Certificates%20PDF/IRJET-Tanu.N.Prabhu%20July%202018.jpg)
+  
+
+       Date - 7 July, 2018
+    
+       Issued By - [IRJET](https://www.irjet.net/)
+---     
+ 
+ 
+ 
+ 
+ 12. [1 Hour of Learn Python Programming](https://github.com/Tanu-N-Prabhu/Certificates/blob/main/Certificates%20PDF/Arcade%20Classic%20Game%20In%20JavaScript%20Sept%202018.pdf)
+  
+
+       Date - 22 June, 2018
+    
+       Issued By - [Udemy](https://www.udemy.com/)
+---     
+ 
+ 
+ 
+ 13. [2 Hours of Python for Beginners with Examples](https://github.com/Tanu-N-Prabhu/Certificates/blob/main/Certificates%20PDF/2%20Hrs%20Python%20Beginners%20June%202018.pdf)
+  
+
+       Date - 21 June, 2018
+    
+       Issued By - [Udemy](https://www.udemy.com/)
+---     
+  
+  
+  
+ 14. [A Study on Giving Commonsense to Machines](https://github.com/Tanu-N-Prabhu/Certificates/blob/main/Certificates%20PDF/IRJET-Nov%202017.pdf)
+  
+
+       Date - 11 November, 2017
+    
+       Issued By - [IRJET](https://www.irjet.net/)
+---     
+  
+  
+ 15. [Crowd Pitch - The Advanced Car Window](https://github.com/Tanu-N-Prabhu/Certificates/blob/main/Certificates%20PDF/Advanced%20Car%20Window-Sep%2C%202017.pdf)
+  
+
+       Date - 22 September, 2017
+    
+       Issued By - [Crowd Product](https://crowdproduct.com/)
+---     
+  
+   
+ 16. [A 6 Day Workshop on C Programming](https://github.com/Tanu-N-Prabhu/Certificates/blob/main/Certificates%20PDF/Cracking%20the%20Programming%20Interview-Subhash-June%202017.pdf)
+  
+
+       Date - 15 June, 2017
+    
+       Issued By - [Subash Programming Classes](https://subhashprogrammingclasses.in/)
+---     
+  
+
  
  
  
