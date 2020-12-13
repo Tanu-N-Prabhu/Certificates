@@ -1,4 +1,15 @@
-# Certificates
+<h1 align = "center"><b>Certificates</b></h1>
+<p align = "center">
+            
+     
+ <img src = "https://github.com/Tanu-N-Prabhu/Certificates/blob/main/profile.jpeg" width="150">           
+            
+ </p>           
+
+> I hereby declare that all the below certificates belong to me, and are not achieved or faked by any change - Tanu Nanda Prabhu
+
+Throughout my life I have achieved 22 documented certifications which are listed below. 
+
 
 1. [Python (Intermediate)](https://github.com/Tanu-N-Prabhu/Certificates/blob/main/Certificates%20PDF/Python%20-%20Intermediate%20Sept%202020.png)
 
@@ -140,7 +151,7 @@
 ---     
   
 
-  17. [36 Programming Training Phase 1](https://github.com/Tanu-N-Prabhu/Certificates/blob/main/Certificates%20PDF/Seventh%20Sense%20Talent%20Solutions-April%202017.pdf)
+  17. [36 Hours of Programming Training Phase 1](https://github.com/Tanu-N-Prabhu/Certificates/blob/main/Certificates%20PDF/Seventh%20Sense%20Talent%20Solutions-April%202017.pdf)
   
 
        Date - 08 April, 2017
