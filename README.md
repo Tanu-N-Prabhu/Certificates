@@ -6,7 +6,7 @@
             
  </p>           
 
-> I hereby declare that all the below certificates belong to me, and are not achieved or faked by any chance - Tanu Nanda Prabhu
+> I hereby declare that all the below certificates belong to me, and are not cheated by any chance - Tanu Nanda Prabhu
 
 Throughout my life I have achieved 22 documented certifications which are listed below. 
 
